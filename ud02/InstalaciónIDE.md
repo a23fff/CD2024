@@ -1,4 +1,4 @@
--- O obxectivo da tarefa é descargar un IDE na MV e instalalo para que todo funcione correctamente.
+### O obxectivo da tarefa é descargar un IDE na MV e instalalo para que todo funcione correctamente.
 
 -- Para iso, o primeiro será escoller a linguaxe na que maís imos a programar no IDE. Eu escollín Java.
 -- Despois, escolleremos un dos numerosos IDEs nos cales se pode programar en Java. Eu escollín IntelliJ IDEA, xa que ten moi boas opinións positivas e é un dos máis coñecidos.
